@@ -1,0 +1,13 @@
+{
+	"name": "creo-code/test-repo",
+	"description": "Test Repo",
+	"autoload": {
+		"classmap": [
+			"app/libraries/"
+		]
+	},
+	"config": {
+		"preferred-install": "dist"
+	},
+	"minimum-stability": "dev"
+}
